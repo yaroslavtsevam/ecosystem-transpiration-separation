@@ -47,5 +47,8 @@
     "USTAR": "USTAR",
     "VPD_F_MDS": "VPD",
     "VPD_F_MDS_QC": "VPD_QC",
-    "WS_F": "WS"
+    "WS_F": "WS",
+    "ET":"ET",
+    "PET":"PET"
+
 }
